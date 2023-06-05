@@ -1,5 +1,9 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * MINIPROYECTO #3
+ *
+ * INTEGRANTES: 
+ * Orlando Alexis Rengifo Mejia(2223878)
+ * PROFESOR: Luis Yohany Romo Portilla 
  */
 
 package vista;
