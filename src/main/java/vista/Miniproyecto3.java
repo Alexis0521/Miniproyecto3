@@ -8,13 +8,16 @@
 
 package vista;
 
+import javax.swing.JFrame;
+
 /**
  *
  * @author orlan
  */
 public class Miniproyecto3 {
-
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        BibliotecaGUI bibliotecaGUI = new BibliotecaGUI();
+        bibliotecaGUI.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
+    
 }
